@@ -1,0 +1,106 @@
+{
+  "Projects": [
+    {
+      "id": "1",
+      "name": "E-Commerce Platform Redesign",
+      "description": "Complete overhaul of the customer-facing e-commerce platform with modern UI/UX implementation",
+      "status": true,
+      "users": [
+        {
+          "id": "1",
+          "name": "Alexander Mitchell",
+          "role": "Frontend Developer"
+        },
+        {
+          "id": "2",
+          "name": "Sarah Thompson",
+          "role": "Backend Developer"
+        },
+        {
+          "id": "3",
+          "name": "Rachel Anderson",
+          "role": "Project Manager"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Cloud Infrastructure Migration",
+      "description": "Migration of legacy systems to cloud-based infrastructure with enhanced security protocols",
+      "status": false,
+      "users": [
+        {
+          "id": "19",
+          "name": "Christopher Hayes",
+          "role": "System Architect"
+        },
+        {
+          "id": "20",
+          "name": "Diana Martinez",
+          "role": "Security Specialist"
+        },
+        {
+          "id": "21",
+          "name": "Benjamin Foster",
+          "role": "Technical Writer"
+        }
+      ]
+    },
+    {
+      "id": "1732459762490",
+      "name": "Mobile Payment Integration",
+      "description": "Implementation of secure mobile payment gateway with multiple provider support",
+      "users": [
+        {
+          "id": "1732459656491",
+          "name": "Michael Zhang",
+          "role": "Software Development Engineer"
+        }
+      ],
+      "status": false
+    },
+    {
+      "id": "1732606847809",
+      "name": "Data Center Optimization",
+      "description": "Performance optimization and capacity planning for regional data centers",
+      "users": [],
+      "status": false
+    },
+    {
+      "id": "5ba6",
+      "name": "AI Chatbot Development",
+      "description": "Development of AI-powered customer service chatbot with natural language processing",
+      "status": true,
+      "users": []
+    },
+    {
+      "id": "6bd7",
+      "name": "Sentiment analysis on twitter data",
+      "description": "Random Forest optimization",
+      "status": false,
+      "users": []
+    }
+  ],
+  "Emails": [
+    {
+      "id": "1",
+      "email": "alexander.mitchell@enterprise.com"
+    },
+    {
+      "id": "2",
+      "email": "sarah.thompson@enterprise.com"
+    },
+    {
+      "id": "7381",
+      "email": "rachel.anderson@enterprise.com"
+    },
+    {
+      "id": "8305",
+      "email": "marcus.rodriguez@enterprise.com"
+    },
+    {
+      "id": "bcf6",
+      "email": "diana.martinez@enterprise.com"
+    }
+  ]
+}
