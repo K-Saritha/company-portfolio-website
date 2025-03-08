@@ -1,1 +1,24 @@
 
+Company-Portfolio-Website
+This project is a portfolio website showcasing various startups, implemented using React and Vite. It features role-based authentication with Admin and Guest roles. The website allows Admins to manage the portfolio content with full CRUD (Create, Read, Update, Delete) functionalities, while Guests can only view the startup information.
+
+Features
+Role-Based Authentication:
+
+Admin login with credentials (username: admin, password: adminpass).
+Guest login with restricted access.
+Startup Portfolio:
+
+Showcases a list of projects with their details.
+Guest users can browse the portfolio.
+Admin users can add, edit, and delete startup entries.
+CRUD Operations:
+
+Create: Add new project entries.(Admin only)
+Read: View existing project entries.
+Update: Edit project details (Admin only).
+Delete: Remove project from the portfolio (Admin only).
+Responsive Design:
+
+Built with Tailwind CSS for a modern and adaptive user interface.
+
